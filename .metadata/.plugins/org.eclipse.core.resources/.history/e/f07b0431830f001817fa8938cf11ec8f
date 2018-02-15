@@ -1,0 +1,62 @@
+import java.util.Scanner;
+import java.util.Set;
+import java.util.ArrayList;
+import java.util.Collections; 
+
+import java.util.TreeSet;
+
+public class VirtualFriend
+{
+    
+    static ArrayList<TreeSet<String>> forest = new  ArrayList<TreeSet<String>>(); // a forest of all trees (connected social networks)
+    
+    public static void main(String args[]) 
+    {
+        Scanner sc = new Scanner(System.in);
+        
+        int testNum = sc.nextInt();
+        int friendNum = sc.nextInt();
+        
+        
+        for(;testNum > 0;testNum--)
+        {
+            for(;friendNum > 0;friendNum--)
+            {
+                String friend1 = sc.next(); // first and second friends which form a new friendship
+                String friend2 = sc.next();
+                TreeSet<String> t1 = new TreeSet<String>();
+                TreeSet<String> t2 = new TreeSet<String>();
+                
+                for(TreeSet<String> t : forest )
+                {
+                	if(t.contains(friend1))
+                	{
+                		t1 = t;
+                	}
+                	if(t.contains(friend2))
+                	{
+                		t2 = t;
+                	}
+                }
+                
+                
+                             
+                
+                // take the union of both friend list
+                 Set<String> union = new TreeSet<String>();
+                 union.addAll(t1);
+                 union.addAll(t2);
+            
+                 System.out.println(union.size()); // prints number of friend
+                 
+                
+            }
+            forest.clear(); // clear hashmap for next test
+        }
+        
+      
+    }
+    
+ 
+}
+

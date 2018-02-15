@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class VirtualFriends
+{
+
+	public static void main(String[] args)
+	{
+		 int numTest = 1 ;
+		 int numFriends ; 
+		 String name1 ;
+		 String name2 ;
+		 Scanner sc = new Scanner(System.in);
+        
+       
+        	numTest = sc.nextInt();
+        	numFriends = sc.nextInt();
+        	for(;numTest>0;numTest--)
+            {
+        		for(;;)
+        		{
+        			name1 = sc.next();
+        			name2 = sc.next();
+        		}
+            }
+        
+        	
+        sc.close();
+	}
+
+}

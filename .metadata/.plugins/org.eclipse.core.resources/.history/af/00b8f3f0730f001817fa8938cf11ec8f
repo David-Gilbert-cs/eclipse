@@ -1,0 +1,39 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class VirtualFriends
+{
+
+	public static void main(String[] args)
+	{
+		 int numTest = 0 ;
+		 int numFriends = 0 ; 
+		 
+		 String name1 ;
+		 String name2 ;
+		 
+		 Scanner sc = new Scanner(System.in);
+		 
+         numTest = sc.nextInt();
+         
+		 for(; numTest > 0;numTest--) // go through every test 
+         {
+       
+
+         numFriends = sc.nextInt();
+        
+        	
+        		for(; numFriends > 0;numFriends--) // go through every pair of names
+        		{
+        				
+        		}
+        		
+        		
+        		
+         }
+        
+        	
+        sc.close();
+	}
+
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="123" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2"/>
+	<item value="1" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn"/>
+	<item value="201" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1"/>
+	<item value="121" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0"/>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item value="500" key="SashWeightTree"/>
+		<item value="500" key="SashWeightDetails"/>
+		<item value="614" key="WIDTH"/>
+		<item value="194" key="HEIGHT"/>
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=searchEngine/src&amp;lt;{searchEngine.java[SearchEngine&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=searchEngine/src&amp;lt;{SearchEngine.java[SearchEngine&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=frogger/src&amp;lt;frogger{Main.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=COMP303Starter/exercise00&amp;lt;ca.mcgill.comp303.exercise00{Welcome.java[Welcome&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Solitaire/src&amp;lt;ca.mcgill.cs.stg.solitaire.gui{Solitaire.java[Solitaire&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=JetUML/C:\/Users\/David\/.p2\/pool\/plugins\/org.junit_4.12.0.v201504281640\/junit.jar&amp;lt;junit.textui(TestRunner.class[TestRunner&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SoftwareDesignCode/module05&amp;lt;ca.mcgill.cs.swdesign.m5.icon{BridgeDealer.java[BridgeDealer&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=JetUML/C:\/Users\/David\/.p2\/pool\/plugins\/org.junit_4.12.0.v201504281640\/junit.jar&amp;lt;junit.runner(Version.class[Version&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SoftwareDesignCode/module00&amp;lt;ca.mcgill.cs.swdesign.m0.demo{Welcome.java[Welcome&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SoftwareDesignCode/module06&amp;lt;ca.mcgill.cs.swdesign.m6{LuckyNumber.java[LuckyNumber&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=JetUML/src&amp;lt;ca.mcgill.cs.stg.jetuml{UMLEditor.java[UMLEditor&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="393" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="523" key="DIALOG_HEIGHT"/>
+			<item value="100" key="DIALOG_X_ORIGIN"/>
+			<item value="8" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>
